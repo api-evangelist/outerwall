@@ -1,7 +1,12 @@
 aid: outerwall
-url: https://raw.githubusercontent.com/api-evangelist/outerwall/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/outerwall/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.outerwall.com
+description: >-
+  Outerwall was a U.S. company specializing in automated retail with brands including
+  Coinstar coin-counting kiosks and Redbox movie rental kiosks before being taken
+  private.
