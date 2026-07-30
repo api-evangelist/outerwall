@@ -5,7 +5,18 @@ description: >-
   including Coinstar coin-counting kiosks and Redbox movie rental kiosks before
   being taken private. No public APIs are documented for Outerwall at this time.
 url: https://raw.githubusercontent.com/api-evangelist/outerwall/refs/heads/main/apis.yml
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/outerwall.png
 type: Index
 tags:
   - Automated Retail
