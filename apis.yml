@@ -34,6 +34,11 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/outerwall.
 type: Index
 tags:
   - Automated Retail
+  - Kiosk
+  - Coinstar
+  - Redbox
+tags_raw:
+  - Automated Retail
   - Kiosks
   - Coinstar
   - Redbox
