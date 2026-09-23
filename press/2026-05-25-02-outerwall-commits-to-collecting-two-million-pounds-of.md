@@ -1,7 +1,9 @@
 ---
 title: Outerwall Commits to Collecting Two Million Pounds of ...
 url: https://www.3blmedia.com/news/outerwall-commits-collecting-two-million-pounds-mobile-devices-help-combat-surging-e-waste
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Outerwall" press release artificial intelligence'
 position: 2
 source: serpapi-google

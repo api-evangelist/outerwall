@@ -1,7 +1,9 @@
 ---
 title: 'Outerwall : Redbox | MarketScreener'
 url: https://www.marketscreener.com/quote/stock/OUTERWALL-INC-13534800/news/Outerwall-Redbox-To-Expand-New-Gen-Games-Nationwide-In-2015-20532553/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Outerwall" press release artificial intelligence'
 position: 5
 source: serpapi-google

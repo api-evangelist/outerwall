@@ -1,7 +1,9 @@
 ---
 title: Outerwall Inc. to Acquire ecoATM
 url: https://www.prnewswire.com/news-releases/outerwall-inc-to-acquire-ecoatm-213956451.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Outerwall" press release artificial intelligence'
 position: 3
 source: serpapi-google

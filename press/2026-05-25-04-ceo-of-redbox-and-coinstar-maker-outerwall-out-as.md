@@ -1,7 +1,9 @@
 ---
 title: CEO of Redbox and Coinstar maker Outerwall out as ...
 url: https://www.geekwire.com/2016/outerwall-deal-new-ceos/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Outerwall" press release artificial intelligence'
 position: 4
 source: serpapi-google

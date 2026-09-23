@@ -1,7 +1,9 @@
 ---
 title: OUTERWALL ENTERS INTO DEFINITIVE MERGER ...
 url: https://www.prnewswire.com/news-releases/outerwall-enters-into-definitive-merger-agreement-to-be-acquired-by-certain-funds-managed-by-affiliates-of-apollo-global-management-for-5200-per-share-in-cash-300303115.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Outerwall" press release artificial intelligence'
 position: 1
 source: serpapi-google
